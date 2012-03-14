@@ -1,0 +1,1 @@
+copy DiemThiDua.xltx "%APPDATA%\Microsoft\Templates"

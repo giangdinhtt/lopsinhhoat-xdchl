@@ -1,1 +1,1 @@
-copy DiemThiDua.xltx "%APPDATA%\Microsoft\Templates"
+copy DiemThiDua.xlt "%APPDATA%\Microsoft\Templates"

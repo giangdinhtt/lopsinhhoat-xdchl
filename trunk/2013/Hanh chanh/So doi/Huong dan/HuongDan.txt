@@ -4,4 +4,4 @@ Lam theo huong dan sau de bang diem cua phan doi minh tu dong cap nhat:
     3. Cac thong tin can thiet se duoc dien day du, cac phan doi truong chi viec dien thong tin thi dua cua cac thanh vien trong doi la du, diem so se duoc tu dong cap nhat
 
 CHU Y:
-    Khong tu y thay doi layout (khong thay doi do rong cot, kieu chu, co chu hay cac format khac)
+    Khong tu y thay doi layout (khong thay doi do rong cot, kieu chu, co chu hay cac format khac).

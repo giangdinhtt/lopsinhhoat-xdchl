@@ -5,4 +5,7 @@ Lam theo huong dan sau de bang diem cua phan doi minh tu dong cap nhat:
 
 CHU Y:
     Khong tu y thay doi layout (khong thay doi do rong cot, kieu chu, co chu hay cac format khac).
-Giang edit
+<<<<<<< .mine
+
+cui bap=======
+Giang edit>>>>>>> .r109
